@@ -1,0 +1,8 @@
+C:\Users\Anki\documents\visual studio 2012\Projects\ImagetoASCII\ImagetoASCII\bin\Release\ImagetoASCII.exe.config
+C:\Users\Anki\documents\visual studio 2012\Projects\ImagetoASCII\ImagetoASCII\bin\Release\ImagetoASCII.exe
+C:\Users\Anki\documents\visual studio 2012\Projects\ImagetoASCII\ImagetoASCII\bin\Release\ImagetoASCII.pdb
+C:\Users\Anki\documents\visual studio 2012\Projects\ImagetoASCII\ImagetoASCII\obj\Release\ImagetoASCII.Form1.resources
+C:\Users\Anki\documents\visual studio 2012\Projects\ImagetoASCII\ImagetoASCII\obj\Release\ImagetoASCII.Properties.Resources.resources
+C:\Users\Anki\documents\visual studio 2012\Projects\ImagetoASCII\ImagetoASCII\obj\Release\ImagetoASCII.csproj.GenerateResource.Cache
+C:\Users\Anki\documents\visual studio 2012\Projects\ImagetoASCII\ImagetoASCII\obj\Release\ImagetoASCII.exe
+C:\Users\Anki\documents\visual studio 2012\Projects\ImagetoASCII\ImagetoASCII\obj\Release\ImagetoASCII.pdb
