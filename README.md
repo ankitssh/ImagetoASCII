@@ -19,3 +19,11 @@ A GUI image to ASCII converter created in C#.
 ![](https://github.com/soulxhacker/ImagetoASCII/blob/master/Capture2.JPG?raw=true)
 
 ![](https://github.com/soulxhacker/ImagetoASCII/blob/master/Capture3.JPG?raw=true)
+
+<b>Installation</b>
+
+* Clone the repository to your desktop.
+
+* Use Visual Studio 2012 or above to open the solution file.
+
+* Build and run the project to generate exe in the debug folder.
